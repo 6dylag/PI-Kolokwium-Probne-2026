@@ -1,0 +1,1 @@
+dane/proba_A.log:ERROR;A02;brak sygnalu dane/proba_A.log:ERROR;A04;przerwa dane/proba_B.log:ERROR;B03;blad odczytu dane/proba_D.log:ERROR;D02;kanal_1 dane/proba_D.log:ERROR;D03;kanal_2n
